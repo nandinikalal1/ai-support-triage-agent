@@ -32,6 +32,5 @@ data/embeddings/
 *.sqlite
 *.db
 
-data/index/
-data/embeddings/
-support_tickets/output.csv
+data/
+support_tickets/

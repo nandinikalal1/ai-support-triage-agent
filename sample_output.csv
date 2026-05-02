@@ -1,0 +1,4 @@
+issue,subject,company,response,product_area,status,request_type,justification
+"How long do HackerRank tests stay active?","Test duration","HackerRank","According to our support documentation, tests remain active based on configuration and can be managed from the test settings.","general","replied","product_issue","Response based on retrieved support documentation"
+"Site is down and not loading","","HackerRank","This issue requires further review by our support team.","system","escalated","bug","Escalated due to system issue"
+"I lost my Visa card, what should I do?","Card lost","Visa","This issue requires further review by our support team.","security","escalated","product_issue","Escalated due to sensitive request"
